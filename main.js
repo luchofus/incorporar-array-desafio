@@ -1,37 +1,3 @@
-/*const productosValleVerde = [
-    {nombre: "Avena", precio: 200},
-    {nombre: "Pan integral", precio:100},
-    {nombre: "Barritas energéticas", precio:189},
-]
-
-const busqueda = prompt("¿Qué producto quiere llevar?")
-
-const resultadoBusqueda = productosValleVerde.some((producto) => producto.nombre == busqueda )
-
-console.log(resultadoBusqueda)
---------
-const productosAgregados = [
-    this.nombre = nombre,
-    {nombre: "Tutucas", precio: 50},
-    {nombre: "Almohaditas", precio: 120},
-]
-
-
-const resultado = productosAgregados.reduce((acumulador, producto) => acumulador + producto.precio, 0)
-
-console.log(resultado)
-
-
-const productos = []
-
-for(let i=0; i < 2; i++){
-    alert("Productos disponibles: " + productosAgregados.nombre)
-    
-}
-
-console.log(productos)*/
-
-
 let acumuladorPrecio = 0
 let precioTotal = 0
 
